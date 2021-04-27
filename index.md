@@ -1,8 +1,13 @@
 ---
 layout: default
-title: My Pages
+title: IMMERSE Log
 ---
 
-  * [IMMERSE Log]({{ site.baseurl }}{% link _pages/log.md %})
-  * [About]({{ site.baseurl }}{% link _pages/about.md %})
+### Week 1: April 26, 2021
+
+* **Monday**: Set up computer, completed linux tutorial
+* **Tuesday**: 
+* **Wednesday**: 
+* **Thursday**: 
+* **Friday**:
   
