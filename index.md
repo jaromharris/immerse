@@ -11,3 +11,9 @@ title: IMMERSE Log
 * **Thursday**: Learned about TCL scripts, experimented with Ice Machine
 * **Friday**: Explored Vivado and learned about netlists, cells, tiles, etc. Worked on fixing errors that came with running make install on icemachine.
   
+### Week 2: May 3, 2021
+* **Monday**: Learned about Project Xray, downloaded vivado 2017 and 2019, worked on BFASST
+* **Tuesday**:
+* **Wednesday**:
+* **Thursday**:
+* **Friday**:
