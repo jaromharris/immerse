@@ -13,7 +13,7 @@ title: IMMERSE Log
   
 ### Week 2: May 3, 2021
 * **Monday**: Learned about Project Xray, downloaded vivado 2017 and 2019, worked on BFASST
-* **Tuesday**:
+* **Tuesday**: Explored bfasst python scripts, learned about make
 * **Wednesday**:
 * **Thursday**:
 * **Friday**:
