@@ -15,5 +15,5 @@ title: IMMERSE Log
 * **Monday**: Learned about Project Xray, downloaded vivado 2017 and 2019, worked on BFASST
 * **Tuesday**: Explored bfasst python scripts, learned about make
 * **Wednesday**: Debugged BFASST, met with Chip Camp group
-* **Thursday**:
+* **Thursday**: Explored BFASST by running basic designs and running experiment. Did the make activity.
 * **Friday**:
