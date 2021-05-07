@@ -16,4 +16,4 @@ title: IMMERSE Log
 * **Tuesday**: Explored bfasst python scripts, learned about make
 * **Wednesday**: Debugged BFASST, met with Chip Camp group
 * **Thursday**: Explored BFASST by running basic designs and running experiment. Did the make activity.
-* **Friday**:
+* **Friday**: Solved issues with git branches, learned about how to do equivalence comparisons with Yosys
