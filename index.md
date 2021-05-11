@@ -17,3 +17,10 @@ title: IMMERSE Log
 * **Wednesday**: Debugged BFASST, met with Chip Camp group
 * **Thursday**: Explored BFASST by running basic designs and running experiment. Did the make activity.
 * **Friday**: Solved issues with git branches, learned about how to do equivalence comparisons with Yosys
+
+### Week 3: May 10, 2021
+* **Monday**: Tried to figure out how to do comparisons with Yosys, learned about fasm2bels and prjxray
+* **Tuesday**:
+* **Wednesday**:
+* **Thursday**:
+* **Friday**:
