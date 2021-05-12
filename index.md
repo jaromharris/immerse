@@ -20,7 +20,7 @@ title: IMMERSE Log
 
 ### Week 3: May 10, 2021
 * **Monday**: Tried to figure out how to do comparisons with Yosys, learned about fasm2bels and prjxray
-* **Tuesday**:
+* **Tuesday**: Continued to struggle with using Yosys for equivalence verifications, worked on prjxray setup 
 * **Wednesday**:
 * **Thursday**:
 * **Friday**:
