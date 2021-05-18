@@ -24,3 +24,10 @@ title: IMMERSE Log
 * **Wednesday**: Planned with Chip Camp group, experimented with Yosys
 * **Thursday**: Learned about python and worked on the csv assignment with python, learned more about bfasst's python code
 * **Friday**: Completed csv assignment with python, continued to investigate bfasst's code to be able to automate yosys equivalence checking
+
+### Week 4: May 17, 2021
+* **Monday**: Worked on getting the new flow for Yosys comparison working. 
+* **Tuesday**: 
+* **Wednesday**: 
+* **Thursday**: 
+* **Friday**: 
