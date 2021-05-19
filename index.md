@@ -27,7 +27,7 @@ title: IMMERSE Log
 
 ### Week 4: May 17, 2021
 * **Monday**: Worked on getting the new flow for Yosys comparison working. 
-* **Tuesday**: 
+* **Tuesday**: Wrote my summer proposal paper. Took inventory for chip camp. Learned about fasm2bels
 * **Wednesday**: 
 * **Thursday**: 
 * **Friday**: 
