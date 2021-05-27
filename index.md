@@ -34,7 +34,7 @@ title: IMMERSE Log
 
 ### Week 5: May 24, 2021
 * **Monday**: I watched the docker and python packages II bootcamp tutorials that I missed. Wrote a unit test and documentation for CSV parser.
-* **Tuesday**: 
-* **Wednesday**: 
+* **Tuesday**: Learned more about Sphinx documentation and unit testing. Learned about netlists.
+* **Wednesday**: Tried to use EDAlize and FuseSoC and understand how they work as tool wrappers. Worked on chip camp.
 * **Thursday**: 
 * **Friday**: 
