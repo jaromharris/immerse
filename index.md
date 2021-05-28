@@ -36,5 +36,5 @@ title: IMMERSE Log
 * **Monday**: I watched the docker and python packages II bootcamp tutorials that I missed. Wrote a unit test and documentation for CSV parser.
 * **Tuesday**: Learned more about Sphinx documentation and unit testing. Learned about netlists.
 * **Wednesday**: Tried to use EDAlize and FuseSoC and understand how they work as tool wrappers. Worked on chip camp.
-* **Thursday**: 
+* **Thursday**: Read through EDAlize code and tried to understand what it was doing. 
 * **Friday**: 
