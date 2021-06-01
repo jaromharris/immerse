@@ -37,4 +37,4 @@ title: IMMERSE Log
 * **Tuesday**: Learned more about Sphinx documentation and unit testing. Learned about netlists.
 * **Wednesday**: Tried to use EDAlize and FuseSoC and understand how they work as tool wrappers. Worked on chip camp.
 * **Thursday**: Read through EDAlize code and tried to understand what it was doing. 
-* **Friday**: 
+* **Friday**: Read through the FPGA deep dive self tutorial.
