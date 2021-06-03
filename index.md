@@ -39,7 +39,7 @@ title: IMMERSE Log
 * **Thursday**: Read through EDAlize code and tried to understand what it was doing. 
 * **Friday**: Read through the FPGA deep dive self tutorial.
 
-### Week 5: May 24, 2021
+### Week 6: May 31, 2021
 * **Monday**: Holiday
 * **Tuesday**: Debugged the problems I was having with EDAlize. Worked more on the FPGA Deep Dive.
 * **Wednesday**: Worked on my iron cores for chip camp. Explored some of the bugs in fasm2bels.
