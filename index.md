@@ -43,5 +43,5 @@ title: IMMERSE Log
 * **Monday**: Holiday
 * **Tuesday**: Debugged the problems I was having with EDAlize. Worked more on the FPGA Deep Dive.
 * **Wednesday**: Worked on my iron cores for chip camp. Explored some of the bugs in fasm2bels.
-* **Thursday**: 
-* **Friday**: 
+* **Thursday**: Worked on integrating EDAlize into bfasst.
+* **Friday**: Integrated EDAlize into bfasst.
