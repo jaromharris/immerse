@@ -45,3 +45,10 @@ title: IMMERSE Log
 * **Wednesday**: Worked on my iron cores for chip camp. Explored some of the bugs in fasm2bels.
 * **Thursday**: Worked on integrating EDAlize into bfasst.
 * **Friday**: Integrated EDAlize into bfasst.
+
+### Week 7: June 7, 2021
+* **Monday**: Dug more into the fasm2bels bugs with the carry4s. Made some weights for chip camp.
+* **Tuesday**: 
+* **Wednesday**: 
+* **Thursday**: 
+* **Friday**: 
