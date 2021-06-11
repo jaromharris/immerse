@@ -49,6 +49,6 @@ title: IMMERSE Log
 ### Week 7: June 7, 2021
 * **Monday**: Dug more into the fasm2bels bugs with the carry4s. Made some weights for chip camp.
 * **Tuesday**: Tried to get fasm2bels to pass pull request checks by adding in license headers, ended up marking the files as generated
-* **Wednesday**: 
-* **Thursday**: 
+* **Wednesday**: Tried to fix the carry 4 bug in fasm2bels, did a chip camp dry run for my module
+* **Thursday**: Tried to fix the carry 4 bug in fasm2bels basically all day
 * **Friday**: 
