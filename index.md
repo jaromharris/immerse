@@ -52,3 +52,10 @@ title: IMMERSE Log
 * **Wednesday**: Tried to fix the carry 4 bug in fasm2bels, did a chip camp dry run for my module
 * **Thursday**: Tried to fix the carry 4 bug in fasm2bels basically all day
 * **Friday**: Learned more about how fasm2bels processes sites and adds sources and sinks
+
+### Week 8: June 14, 2021
+* **Monday**: Set up the debugger for fasm2bels and learned more about the code base.
+* **Tuesday**: 
+* **Wednesday**: 
+* **Thursday**: 
+* **Friday**: 
