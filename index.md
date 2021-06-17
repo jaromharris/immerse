@@ -55,7 +55,7 @@ title: IMMERSE Log
 
 ### Week 8: June 14, 2021
 * **Monday**: Set up the debugger for fasm2bels and learned more about the code base.
-* **Tuesday**: 
-* **Wednesday**: 
-* **Thursday**: 
+* **Tuesday**: Looked through the functions of the site class and found one to replace add_source which fixed the bug. Tested it with regression test.
+* **Wednesday**: Found another bug in the code that omits an OBUF from the reversed netlist. I found out that this bug exists in symbiflow master. I worked on chip camp today as well.
+* **Thursday**: Soldered some alligator clips to some wires for chip camp. Made the pull request for the carry4 bug. Moved edalize to be a third_party submodule in bfasst.
 * **Friday**: 
