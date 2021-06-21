@@ -59,3 +59,31 @@ title: IMMERSE Log
 * **Wednesday**: Found another bug in the code that omits an OBUF from the reversed netlist. I found out that this bug exists in symbiflow master. I worked on chip camp today as well.
 * **Thursday**: Soldered some alligator clips to some wires for chip camp. Made the pull request for the carry4 bug. Moved edalize to be a third_party submodule in bfasst.
 * **Friday**: Absent
+
+### Week 9: June 21, 2021
+* **Monday**: 
+* **Tuesday**: 
+* **Wednesday**: 
+* **Thursday**: 
+* **Friday**: 
+
+### Week 10: June 28, 2021
+* **Monday**: 
+* **Tuesday**: 
+* **Wednesday**: 
+* **Thursday**: 
+* **Friday**: 
+
+### Week 11: July 5, 2021
+* **Monday**: 
+* **Tuesday**: 
+* **Wednesday**: 
+* **Thursday**: 
+* **Friday**: 
+
+### Week 12: July 12, 2021
+* **Monday**: 
+* **Tuesday**: 
+* **Wednesday**: 
+* **Thursday**: 
+* **Friday**: 
