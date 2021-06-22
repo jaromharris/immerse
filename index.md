@@ -61,7 +61,7 @@ title: IMMERSE Log
 * **Friday**: Absent
 
 ### Week 9: June 21, 2021
-* **Monday**: 
+* **Monday**: Made a test for the carry4 issue on fasm2bels and fixed other things that acomodi asked me to. Learned more about python.
 * **Tuesday**: 
 * **Wednesday**: 
 * **Thursday**: 
