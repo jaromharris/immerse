@@ -62,7 +62,7 @@ title: IMMERSE Log
 
 ### Week 9: June 21, 2021
 * **Monday**: Made a test for the carry4 issue on fasm2bels and fixed other things that acomodi asked me to. Learned more about python.
-* **Tuesday**: 
+* **Tuesday**: Fixed more things on the carry4 fix pull request. Learned how to make a eblif file using yosys.
 * **Wednesday**: 
 * **Thursday**: 
 * **Friday**: 
