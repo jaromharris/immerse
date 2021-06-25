@@ -64,7 +64,7 @@ title: IMMERSE Log
 * **Monday**: Made a test for the carry4 issue on fasm2bels and fixed other things that acomodi asked me to. Learned more about python.
 * **Tuesday**: Fixed more things on the carry4 fix pull request. Learned how to make a eblif file using yosys.
 * **Wednesday**: Started running and debugging more IP from the examples directory in bfasst. Worked on chip camp wires for electromagnets.
-* **Thursday**: 
+* **Thursday**: Tried to get fusesoc to synthesize and implement a design using yosys and vpr. Ran some regression tests on bfasst and tried to debug.
 * **Friday**: 
 
 ### Week 10: June 28, 2021
