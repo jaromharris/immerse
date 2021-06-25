@@ -65,7 +65,7 @@ title: IMMERSE Log
 * **Tuesday**: Fixed more things on the carry4 fix pull request. Learned how to make a eblif file using yosys.
 * **Wednesday**: Started running and debugging more IP from the examples directory in bfasst. Worked on chip camp wires for electromagnets.
 * **Thursday**: Tried to get fusesoc to synthesize and implement a design using yosys and vpr. Ran some regression tests on bfasst and tried to debug.
-* **Friday**: 
+* **Friday**: Tried to run the symbiflow toolchain through fusesoc, but it didn't work so I spent a while trying to figure out why symbiflow_synth wasn't recognized. Didn't figure it out. Figured out how to run the CI test locally on my machine, but I couldn't figure out where it stores the generated files.
 
 ### Week 10: June 28, 2021
 * **Monday**: 
