@@ -68,7 +68,7 @@ title: IMMERSE Log
 * **Friday**: Tried to run the symbiflow toolchain through fusesoc, but it didn't work so I spent a while trying to figure out why symbiflow_synth wasn't recognized. Didn't figure it out. Figured out how to run the CI test locally on my machine, but I couldn't figure out where it stores the generated files.
 
 ### Week 10: June 28, 2021
-* **Monday**: 
+* **Monday**: Worked on generating an eblif file that test_fasm2bels will use to test the carry4 issue. I also got the demos prepared for chip camp.
 * **Tuesday**: 
 * **Wednesday**: 
 * **Thursday**: 
