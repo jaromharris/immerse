@@ -69,9 +69,9 @@ title: IMMERSE Log
 
 ### Week 10: June 28, 2021
 * **Monday**: Worked on generating an eblif file that test_fasm2bels will use to test the carry4 issue. I also got the demos prepared for chip camp.
-* **Tuesday**: 
-* **Wednesday**: 
-* **Thursday**: 
+* **Tuesday**: Tested my test for the carry4 fix and cut some more solid iron cores for the electromagnets for chip camp.
+* **Wednesday**: Figured out what my eblif file was missing so now it is passing the tests, ran regression tests on bfasst.
+* **Thursday**: Worked in the electromagnetism module of chip camp basically all day.
 * **Friday**: 
 
 ### Week 11: July 5, 2021
