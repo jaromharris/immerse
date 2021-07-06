@@ -72,10 +72,10 @@ title: IMMERSE Log
 * **Tuesday**: Tested my test for the carry4 fix and cut some more solid iron cores for the electromagnets for chip camp.
 * **Wednesday**: Figured out what my eblif file was missing so now it is passing the tests, ran regression tests on bfasst.
 * **Thursday**: Worked in the electromagnetism module of chip camp basically all day.
-* **Friday**: 
+* **Friday**: Spent some time learning about implications of bfasst and preparing my technical presentation.
 
 ### Week 11: July 5, 2021
-* **Monday**: 
+* **Monday**: Holiday
 * **Tuesday**: 
 * **Wednesday**: 
 * **Thursday**: 
