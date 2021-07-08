@@ -77,7 +77,7 @@ title: IMMERSE Log
 ### Week 11: July 5, 2021
 * **Monday**: Holiday
 * **Tuesday**: Worked on technical presentation and helped Sam make the unit test for the pudc fix.
-* **Wednesday**: 
+* **Wednesday**: Worked on solving the issue of conformal and yosys showing not equivalent when equivalence checking is run in bfasst.
 * **Thursday**: 
 * **Friday**: 
 
