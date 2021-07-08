@@ -76,7 +76,7 @@ title: IMMERSE Log
 
 ### Week 11: July 5, 2021
 * **Monday**: Holiday
-* **Tuesday**: 
+* **Tuesday**: Worked on technical presentation and helped Sam make the unit test for the pudc fix.
 * **Wednesday**: 
 * **Thursday**: 
 * **Friday**: 
