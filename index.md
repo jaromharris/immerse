@@ -78,8 +78,8 @@ title: IMMERSE Log
 * **Monday**: Holiday
 * **Tuesday**: Worked on technical presentation and helped Sam make the unit test for the pudc fix.
 * **Wednesday**: Worked on solving the issue of conformal and yosys showing not equivalent when equivalence checking is run in bfasst.
-* **Thursday**: 
-* **Friday**: 
+* **Thursday**: Worked at chip camp all day in the magnetic muscles module
+* **Friday**: Helped Sam with the pudc unit test. Worked on debugging not equivalences with Yosys. Added system verilog functionality to bfasst.
 
 ### Week 12: July 12, 2021
 * **Monday**: 
