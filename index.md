@@ -82,7 +82,7 @@ title: IMMERSE Log
 * **Friday**: Helped Sam with the pudc unit test. Worked on debugging not equivalences with Yosys. Added system verilog functionality to bfasst.
 
 ### Week 12: July 12, 2021
-* **Monday**: 
+* **Monday**: Investigated a problem I'm having with yosys where it doesn't consider FDCEs to be equivalent. Learned the difference between FDCEs and FDREs.
 * **Tuesday**: 
 * **Wednesday**: 
 * **Thursday**: 
