@@ -83,7 +83,7 @@ title: IMMERSE Log
 
 ### Week 12: July 12, 2021
 * **Monday**: Investigated a problem I'm having with yosys where it doesn't consider FDCEs to be equivalent. Learned the difference between FDCEs and FDREs.
-* **Tuesday**: 
+* **Tuesday**: Added more designs to the BFASST repo. Worked on my presentation. Dug into some of the not-equivalent results of BFASSt.
 * **Wednesday**: 
 * **Thursday**: 
 * **Friday**: 
