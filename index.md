@@ -87,3 +87,10 @@ title: IMMERSE Log
 * **Wednesday**: Met with BFASST team, prepared for presentation, worked on not equivalent designs
 * **Thursday**: Worked on putting together a pull request for integrating bfasst into fasm2bels doing equivalence testing.
 * **Friday**: Worked on bfasst integration pull request. 
+
+### Week 13: July 19, 2021
+* **Monday**: Worked on simplifying a design that was failing equivalence checking to pin point what about the design was causing it to fail.
+* **Tuesday**: Dug more into my issue with Yosys equivalence checking where my simple design was showing not equivalent.
+* **Wednesday**: 
+* **Thursday**: 
+* **Friday**: 
