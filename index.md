@@ -91,6 +91,6 @@ title: IMMERSE Log
 ### Week 13: July 19, 2021
 * **Monday**: Worked on simplifying a design that was failing equivalence checking to pin point what about the design was causing it to fail.
 * **Tuesday**: Dug more into my issue with Yosys equivalence checking where my simple design was showing not equivalent.
-* **Wednesday**: 
+* **Wednesday**: Figured out how to make vivado not include dsp modules since fasm2bels doesn't support them. Submitted an issue to Yosys about equivalence checking.
 * **Thursday**: 
 * **Friday**: 
