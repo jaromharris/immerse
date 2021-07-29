@@ -92,5 +92,12 @@ title: IMMERSE Log
 * **Monday**: Worked on simplifying a design that was failing equivalence checking to pin point what about the design was causing it to fail.
 * **Tuesday**: Dug more into my issue with Yosys equivalence checking where my simple design was showing not equivalent.
 * **Wednesday**: Figured out how to make vivado not include dsp modules since fasm2bels doesn't support them. Submitted an issue to Yosys about equivalence checking.
+* **Thursday**: Absent
+* **Friday**: Holiday
+
+### Week 14: July 26, 2021
+* **Monday**: Worked for just a few hours today, I looked into how to install Yosys using conda to run a comparison checking CI test.
+* **Tuesday**: One of the antmicro people said that I could look at symbiflow-arch-defs to learn how to install Yosys via conda, so I explored that today.
+* **Wednesday**: I continued to look into how to install Yosys via conda, and I looked into some of the designs that don't pass conformal or yosys equivalence checking. I helped out Sam with some issues he was having.
 * **Thursday**: 
 * **Friday**: 
