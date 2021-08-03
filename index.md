@@ -101,3 +101,10 @@ title: IMMERSE Log
 * **Wednesday**: I continued to look into how to install Yosys via conda, and I looked into some of the designs that don't pass conformal or yosys equivalence checking. I helped out Sam with some issues he was having.
 * **Thursday**: 
 * **Friday**: 
+
+### Week 15: August 3, 2021
+* **Monday**: 
+* **Tuesday**: 
+* **Wednesday**: 
+* **Thursday**: 
+* **Friday**: 
