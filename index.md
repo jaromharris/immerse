@@ -99,12 +99,26 @@ title: IMMERSE Log
 * **Monday**: Worked for just a few hours today, I looked into how to install Yosys using conda to run a comparison checking CI test.
 * **Tuesday**: One of the antmicro people said that I could look at symbiflow-arch-defs to learn how to install Yosys via conda, so I explored that today.
 * **Wednesday**: I continued to look into how to install Yosys via conda, and I looked into some of the designs that don't pass conformal or yosys equivalence checking. I helped out Sam with some issues he was having.
-* **Thursday**: 
-* **Friday**: 
+* **Thursday**: Worked on figuring out why yosys equivalence checking was failing. Began to make an example to show a minimal design that was failing.
+* **Friday**: Continued to work on the minimal design, submitted the issue to Yosys and looked into some issues of failing designs in bfasst.
 
 ### Week 15: August 3, 2021
-* **Monday**: 
-* **Tuesday**: 
-* **Wednesday**: 
-* **Thursday**: 
-* **Friday**: 
+* **Monday**: Helped Sam with some issues he was having. Someone responded to my issue on Yosys, it fixed part of the problem, but not the entire thing.
+* **Tuesday**: Worked on making another minimal design that was having the same issue in Yosys, looked into the other failing designs in bfasst.
+* **Wednesday**: Attended immerse student presentations, helped Sam try to figure out how to use Conformal gui. Sent my minmal design to Yosys.
+* **Thursday**: Worked on my immerse summer summary on learning suite, and looked into failing designs in bfasst.
+* **Friday**: Vacation
+
+### Week 16: August 9, 2021
+* **Monday**: Vacation
+* **Tuesday**: Vacation
+* **Wednesday**: Vacation
+* **Thursday**: Vacation
+* **Friday**: Vacation
+
+### Week 17: August 16, 2021
+* **Monday**: Vacation
+* **Tuesday**: Vacation
+* **Wednesday**: Vacation
+* **Thursday**: Vacation
+* **Friday**: Vacation
