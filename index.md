@@ -122,3 +122,10 @@ title: IMMERSE Log
 * **Wednesday**: Vacation
 * **Thursday**: Vacation
 * **Friday**: Vacation
+
+### Week 18: August 23, 2021
+* **Monday**: Worked on getting yosys to build from conda environment. Started digging into yosys equivalence checking source code.
+* **Tuesday**: Didn't come in to work.
+* **Wednesday**: Continued to work on getting yosys to build from conda. Ran into some issues where it works on my machine, but not on the CI.
+* **Thursday**: 
+* **Friday**: 
