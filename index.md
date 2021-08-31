@@ -127,5 +127,5 @@ title: IMMERSE Log
 * **Monday**: Worked on getting yosys to build from conda environment. Started digging into yosys equivalence checking source code.
 * **Tuesday**: Didn't come in to work.
 * **Wednesday**: Continued to work on getting yosys to build from conda. Ran into some issues where it works on my machine, but not on the CI.
-* **Thursday**: 
-* **Friday**: 
+* **Thursday**: acomodi helped me activate the environment directly rather than using the make command to enter it. This passed the CI tests.
+* **Friday**: Made an adjustment on my PR that acomodi requested. Read through the Yosys documentation.
